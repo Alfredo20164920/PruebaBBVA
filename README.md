@@ -7,5 +7,5 @@ Para poder visualizar el proyecto es necesario tener instalado [Node](https://no
 Despues se ejecuta la siguiente linea para ejecutar el programa
 
 `
-  node JavaScript/index.js
+  node index.js
 `
